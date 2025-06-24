@@ -1,0 +1,7 @@
+node_modules/
+build/
+.env
+*.log
+mcp-servers.json
+logs/
+logs2/

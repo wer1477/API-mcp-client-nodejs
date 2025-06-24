@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "mongodb": {
+      "command": "npx",
+      "args": [
+        "mcp-mongo-server",
+        "mongodb://localhost:27017/studentManagement?authSource=admin"
+      ]
+    }
+  },
+  "defaultServer": "mongodb",
+  "system": "这里填写系统提示词"
+}
